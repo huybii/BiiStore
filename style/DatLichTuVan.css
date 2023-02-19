@@ -1,0 +1,187 @@
+.main-control{
+    width: 100%;
+}
+
+.head-img{
+    width: 100%;
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-image: url('../img/gioithieu-gotrangtri.vn_.png');
+}
+.head-img-btn{
+    padding: 20px;
+    width: 470px;
+    height: 330px;
+    background-color: #f2f2f2;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    border-radius: 15px;
+}
+.head-img-btn h1{
+    margin-bottom: 0;
+    color: #ffbf7f;
+}
+.head-img-btn p{
+    margin: 12px 0;
+    color: #142f41;
+}
+.main-btn{
+    width: 150px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    background-color: #ffbf7f;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 2px;
+}
+.main-btn a{
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.DatLich-btn{
+    color: #fff;
+}
+.BaoGia-btn{
+    color: #fff;
+}
+
+.contact-img{
+    width: 100%;
+    height: 580px;
+    background-color: #f14f67;
+    padding: 50px;
+}
+.BaoGia{
+    width: 100%;
+    height: 580px;
+    background-color: #fff;
+    padding: 50px;
+}
+.DatLichTuVan{
+    width: 100%;
+    height: 580px;
+    background-color: #ede9e8;
+    position: relative;
+    padding: 50px;
+}
+.contact-img h1 ,h6{
+    text-align: center;
+    color: #fff;
+}
+.phone-number{
+    width: 216px;
+    height: 56px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.CamKet{
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
+.CamKet ul{
+    color: #f14f67;
+    font-size: 20px;
+}
+.DienThongTin{
+    position: absolute;
+    text-align: center;
+    width: 360px;
+    right: 300px;
+    top: 100px;
+}
+.DienThongTin h1, h6{
+    color: #f14f67;
+}
+.form-DienThongTin-row{
+    margin: 12px 0;
+}
+.btn-DatLich{
+    width: 150px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    background-color: #f14f67;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    padding-top: 2px;
+}
+.BaoGia{
+    text-align: center;
+}
+
+.GoiDichVu{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.GoiDichVu-item{
+    width: 220px;
+    height: 370px;
+    border: 1px solid #f14f67;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 4px 8px;
+}
+.GoiDichVu-item-name{
+    width: 100%;
+    height: 50px;
+    background-color: #f14f67;
+    color: #fff;
+}
+.GoiDichVu-item-price{
+    margin-top: 30px;
+    color: #f14f67;
+    font-size: 32px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    border-bottom: 1.5px solid #f14f67;
+    display: inline-block;
+}
+.GoiDichVu-list{
+    color: #515151;
+    font-size: 13px;
+    margin-left: -8px;
+    font-weight: 500;
+    text-align: left;
+}
+.GoiDichVu-list li{
+    margin-bottom: 8px;
+}
+.GoiDichVu-btn{
+    width: 150px;
+    height: 40px;
+    background-color: #f14f67;
+    margin-bottom: 12px;
+}
+.GoiDichVu-btn a{
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding-top: 8px;
+}
